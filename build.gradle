@@ -35,4 +35,5 @@ dependencies {
     compile 'com.h2database:h2'
 
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation 'com.github.pagehelper:pagehelper-spring-boot-starter:1.2.4'
 }
